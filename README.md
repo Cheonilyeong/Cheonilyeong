@@ -1,7 +1,7 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlfdud0304)](https://solved.ac/dlfdud0304/)
-<img src="http://mazandi.herokuapp.com/api?handle=dlfdud0304&theme=cold"/> <a href="https://instagram.com/movinggun01">
+<img src="http://mazandi.herokuapp.com/api?handle=dlfdud0304&theme=cold"/> 
 
 <!--
 **Cheonilyeong/Cheonilyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
